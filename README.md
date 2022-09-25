@@ -23,6 +23,6 @@ We also aim to include a prediction system in the application to let the potenti
 * To collect the relevant data from the data sources
     * Web Scraping from different website
     * Identifying credible data and data cleaning
-    * Data sorting and classification based on the system architecture and design
+* Data sorting and normalization based on the system architecture and design
 * Database creation with relevant standardizations and customizations
 * Incorporating the prediction module for the universities 
