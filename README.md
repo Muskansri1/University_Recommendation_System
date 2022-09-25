@@ -1,4 +1,4 @@
-         ![Image_Banner!](https://github.com/Muskansri1/University_Recommendation_System/blob/main/University%20recommendation%20system.png)
+![Image_Banner!](https://github.com/Muskansri1/University_Recommendation_System/blob/main/University%20recommendation%20system.png)
 
 ## Team Uni-Buddy:- 
 Muskan Srivastava - srivastava.mu@northeastern.edu
