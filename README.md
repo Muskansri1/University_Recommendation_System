@@ -1,4 +1,4 @@
-! [Image_Banner](https://github.com/Muskansri1/University_Recommendation_System/blob/main/University%20recommendation%20system.png)
+! [Image_Banner!](https://github.com/Muskansri1/University_Recommendation_System/blob/main/University%20recommendation%20system.png)
 
 ## Team Uni-Buddy:- 
 Muskan Srivastava - srivastava.mu@northeastern.edu
@@ -16,8 +16,8 @@ The application/website would feature data from data sources like Yocket, USnews
 We also aim to include a prediction system in the application to let the potential students predict their chances of getting into the university based on their GRE, TOEFL, Undergrad GPA, work experience, etc.
 
 ## Contributors:-
-Muskan Srivastava - [muskansri1](https://github.com/Muskansri1)
-Sameer Nimse - [sameernimse09](https://github.com/sameernimse09)
+* Muskan Srivastava - [muskansri1](https://github.com/Muskansri1)
+* Sameer Nimse - [sameernimse09](https://github.com/sameernimse09)
 
 ## Scope of the project for the contributors:
 * To collect the relevant data from the data sources
