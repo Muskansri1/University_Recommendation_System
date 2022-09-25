@@ -1,6 +1,6 @@
 ![Image_Banner!](https://github.com/Muskansri1/University_Recommendation_System/blob/main/University%20recommendation%20system.png)
 
-## Team Uni-Buddy:- 
+## Team Uni_Buddy:- 
 Muskan Srivastava - srivastava.mu@northeastern.edu
 Sameer Nimse - nimse.s@northeastern.edu
 
