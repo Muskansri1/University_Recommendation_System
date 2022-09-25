@@ -1,14 +1,10 @@
-UNIVERSITY RECOMMENDATION SYSTEM
-----------------------------------------------------------------------------------------------------
+! [Image_Banner](https://github.com/Muskansri1/University_Recommendation_System/blob/main/University%20recommendation%20system.png)
 
-**Team Uni-Buddy:-** 
-Sameer Nimse - nimse.s@northeastern.edu
+## Team Uni-Buddy:- 
 Muskan Srivastava - srivastava.mu@northeastern.edu
+Sameer Nimse - nimse.s@northeastern.edu
 
---------------------------------------------------------------------------------------------------------------------
-
-##About the Project 
-
+## About the Project
 The opportunity to study in the US has been a dream for many international students. More than 1 million foreign students apply to the graduate school for higher studies in the US. Multiple factors such as the tuition fees, university ranking, courses available, return on investment, etc. play a huge role in the final selection of a university,
 
 The abundance of information and lack of credible data on the internet often leaves ambitious students in a dilemma. They are often left confused about the major they want to get in or the professor they are interested in, or even their chances of getting into the university.
@@ -19,14 +15,14 @@ The application/website would feature data from data sources like Yocket, USnews
 
 We also aim to include a prediction system in the application to let the potential students predict their chances of getting into the university based on their GRE, TOEFL, Undergrad GPA, work experience, etc.
 
-Contributors:-
-Muskan Srivastava - muskansri1
-Sameer Nimse - sameernimse09
+## Contributors:-
+Muskan Srivastava - [muskansri1](https://github.com/Muskansri1)
+Sameer Nimse - [sameernimse09](https://github.com/sameernimse09)
 
-Scope of the project for the contributors:
-To collect the relevant data from the data sources 
-Web Scraping from different websites
-Identifying credible data and data cleaning
-Data sorting and classification based on the system architecture and design
-Database creation with relevant standardizations and customizations
-Incorporating the prediction module for the universities 
+## Scope of the project for the contributors:
+* To collect the relevant data from the data sources
+    * Web Scraping from different website
+    * Identifying credible data and data cleaning
+    * Data sorting and classification based on the system architecture and design
+* Database creation with relevant standardizations and customizations
+* Incorporating the prediction module for the universities 
