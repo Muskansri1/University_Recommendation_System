@@ -1,8 +1,8 @@
 ![Image_Banner!](https://github.com/Muskansri1/University_Recommendation_System/blob/main/University%20recommendation%20system.png)
 
 ## Team Uni_Buddy:- 
-Muskan Srivastava - srivastava.mu@northeastern.edu
-Sameer Nimse - nimse.s@northeastern.edu
+* Muskan Srivastava - srivastava.mu@northeastern.edu
+* Sameer Nimse - nimse.s@northeastern.edu
 
 ## About the Project
 The opportunity to study in the US has been a dream for many international students. More than 1 million foreign students apply to the graduate school for higher studies in the US. Multiple factors such as the tuition fees, university ranking, courses available, return on investment, etc. play a huge role in the final selection of a university,
