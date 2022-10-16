@@ -48,4 +48,3 @@ We also aim to include a prediction system in the application to let the potenti
 18. What companies hire students from the university?
 19. What are the chances of getting an internship at the university?
 20. Are there Research opportunities available?
-
