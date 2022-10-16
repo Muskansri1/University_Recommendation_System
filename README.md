@@ -37,7 +37,7 @@ We also aim to include a prediction system in the application to let the potenti
 7. Would the database have the information on the faculty details of a particular university?
 8. Would the database be able to suggest the different skills/prerequisites required to pursue a course?
 9. Would the database suggest colleges based on ambitious, moderate, and safety standards?
-10.Would the database have information about hiring companies sponsoring the students for H1B visas?
+10. Would the database have information about hiring companies sponsoring the students for H1B visas?
 11. What are the chances of a student getting into a top 10 University?
 12. What are the chances of a student getting into the desired course?
 13. What is the probability of a student getting a course under the desired professor?
