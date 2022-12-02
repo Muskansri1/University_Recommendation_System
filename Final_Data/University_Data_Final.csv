@@ -1,0 +1,66 @@
+University_ID,University_Name,avg_pay_scale,Delivery_Mode,Duration,Term,Year_of_Joining,Major,Location,Cost_of_Living,Avg_Fees,GRE,TOEFL,IELTS
+1,Northeastern University,100000,On-Campus,2,Fall,2022,MSIS,Boston,9600,54000,310,100,7.5
+2,"University of Texas, San Antonio",90000,On-Campus,2,Fall,2022,MSCS,Texas,7800,60000,300,100,7.5
+3,Boston University,80000,On-Campus,2,Fall,2022,MSDS,Boston,9600,90000,300,110,8
+4,Syracuse University,100000,On-Campus,2,Fall,2022,MSIS,New York,9700,65000,305,100,7.5
+5,Northweastern University,90000,On-Campus,2,Fall,2022,MS SES,Chicago,9100,55000,290,90,7
+6,Arizona State University Tempe,91000,On-Campus,2,Fall,2022,MSCS,Arizona,10230,44000,317,90,7
+7,"California State University, East Bay",51645,On-Campus,2,Fall,2022,MSCS,California,4800,34580,305,80,6.5
+8,Clarkson University,65000,On-Campus,2,Fall,2022,MSCS,New York,8726,22995,294,80,6.5
+9,Clemson University,57400,On-Campus,2,Fall,2022,MSCS,South Carolina,55872,39502,310,80,6.5
+10,Cleveland State University,36100,On-Campus,1.8,Fall,2022,MSIS,Cleveland,24693,21702,295,78,6
+11,Cornell University,113700,On-Campus,2,Fall,2022,MSCS,Ithaca,19726,29500,295,100,7
+12,Dalhousie University,24249,On-Campus,2,Fall,2022,MSCS,Canada,16776,16860,300,92,7
+13,George Mason University,56200,On-Campus,2,Fall,2022,MSCS,Virginia,59782,22110,Waived,88,7
+14,Georgia Institute of Technology,94000,On-Campus,2,Fall,2022,MSCS,Atlanta,55672,18225,Waived,79,6.5
+15,Harvard University,128900,On-Campus,1.8,Fall,2022,MSCS,Boston,83463,89952,Waived,80,6.5
+16,"Illinios Institute of Technology, Chicago",68647,On-Campus,2,Fall,2022,MSCS,Chicago,12600,26336,309,90,6.5
+17,"Indiana University, Bloomington",136000,On-Campus,1.8,Fall,2023,MSCS,Indiana,38680,24375,Waived ,100,7
+18,Iowa State University,60156,On-Campus,2,Fall,2022,MSCS,Iowa,35004,23790,316,79,6.5
+19,Kansas State University,45700,On-Campus,2,Fall,2023,MSCS,Kansas,15046,14385,310,79,6.5
+20,New York University,83000,On-Campus,2,Fall,2022,MSCS,New York,40000,35982,321,100,7
+21,NYU Tandon School of Engineering,71128,On-Campus,2,Fall,2022,MCE,New York,83250,29145,316,90,7
+22,Pennsylvania State University,30000,On-Campus,2,Fall,2022,MSDA,Pennsylvania,30000,28155,314,80,6.5
+23,Rochester Institute of Technology,56197,On-Campus,1,Fall,2023,MSBA,New York,72128,54176,307,88,6.5
+24,Saint Peter's University,None,On-Campus,1.8,Fall,2022,MSDS,New Jersey,32502,42372,318,79,6.5
+25,San Jose State University,None,On-Campus,2,Fall,2022,MSCS,California,7379,32472,313,80,6.5
+26,Stanford University,152000,On-Campus,1.5,Fall,2022,MSCS,California,82162,57870,Waived,89,None
+27," State University of New York, Albany",71128,On-Campus,2,Fall,2022,MSCS,New York,43919,46200,306,79,6.5
+28,"State University of New York, Buffalo",None,On-Campus,2,Fall,2023,MSCS,New York,None,46200,306,79,6.5
+29," State University of New York, Polytechnic Institute",83000,On-Campus,1.8,Fall,2022,MTM,New York,15287,23112,Waived,79,7.5
+30,"State University of New York, Stony Brook",None,On-Campus,1.8,Fall,2022,MSCS,New York,None,29853,300,80,6.5
+31,"Texas A&M University, College Station",175000,On-Campus,1.8,Fall,2022,MSCS,Texas,21950,24940,295,80,6
+32,"Texas A&M University, Kingsville",175000,On-Campus,2,Fall,2023,MSCS,Texas,40754,23908,297,79,6
+33,"University of California, Irvine",109000,On-Campus,1.5,Fall,2022,MSCS,Irvine,77431,33502,302,80,7
+34,"University of California, Los Angeles",64433,On-Campus,1.5,Fall,2022,MSBA,Los Angeles,20000,14625,None,87,7
+35,"University of California, San Diego",77143,On-Campus,2,Fall,2022,MSCSE,San Diego,52242,22884,None,83,7
+36,"University of Colorado, Boulder",43000,On-Campus,1.8,Fall,2022,MSCS,Boulder,20000,53736,Waived,83,6
+37,"University of Dayton, Ohio",72077,On-Campus,1.8,Fall,2022,MSCS,Ohio,15000,30900,None,80,6.5
+38,"University of Florida, Gainesville",123000,On-Campus,1.8,Fall,2022,CIS,Gainesville,16680,45477,318,101,8
+39,"University of Houston, Clear Lake",34260,On-Campus,1.8,Fall,2023,MSCS,Clear Lake,9460,31482,290,79,6
+40,"University University of Illinois, Urbana Champaign",70100,On-Campus,1.8,Fall,2023,MSCS,Urbana champaign,6777,36798,Waived,103,7.5
+41,University of Maryland College Park,68000,On-Campus,2,Fall,2023,MSCS,College Park,53036,26535,320,95,7
+42,"University of Michigan, Ann Arbor",75842,On-Campus,1,Fall,2022,MSCSE,Ann Arbor,75410,100470,Waived,84,6.5
+43,"University of Michigan, Dearborn",75842,On-Campus,1.8,Fall,2022,DSBI,Dearborn,28786,46380,Waived,84,6.5
+44,"University of Minnesota, Twin Cities",72300,On-Campus,2,Fall,2022,DSBI,Twin cities,17009,40766,Waived,79,6.5
+45,"University of South Carolina, Columbia",100000,On-Campus,2,Fall,2022,MSCS,Columbia,6500,67856,None,80,6.5
+46,University of South Florida,60000,On-Campus,2,Fall,2022,MSCS,Florida,15000,26430,312,96,7
+47,University of Southern California,85000,On-Campus,1.8,Fall,2022,MSCS,California,65798,64651,Waived,90,6.5
+48,"University of Texas, Arlington",85000,On-Campus,2,Fall,2023,MSCS,Arlington,17000,46972,305,79,6.5
+49,"University of Texas, Austin",67839,On-Campus,1.8,Fall,2022,MSECE,Austin ,35022,30900,324,109,6.5
+50,"University of Texas, Dallas",87000,On-Campus,1.8,Fall,2022,MSITM,Dallas,20000,53685,None,98,7
+51,"University of the Pacific, Stockton",72000,On-Campus,1,Fall,2022,MSCS,Stockton,39998,46980,311,96,7
+52,Virginia Tech University,66600,On-Campus,2,Fall,2023,MSCS,Virginia,21301,48780,Waived,90,6.5
+53,Wayne State University,50700,On-Campus,2,Fall,2023,MSCS,Wayne,44197,25710,Waived,79,6.5
+54,West Virginia University Institute of Technology,39300,On-Campus,1.8,Fall,2023,MSCS,West Virginia,31106,44919,300,79,6.5
+55,Western Michigan University,66400,On-Campus,2,Fall,2022,MSCS,Michigan,10567,16440,Waived,80,6.5
+56,Western University,69000,On-Campus,1.8,Fall,2022,MSCS,London,21585,25816,None,92,6.5
+57,"University Of California, Berkeley",76909,On-Campus,2,Fall,2022,MSCS,California,39094,53604,300,80,6.5
+58,Carnegie Mellon University,99998,On-Campus,2,Fall ,2022,MSCS,Pennsylvania,16740,61000,Waived,108,7.5
+59,University of Phoenix ,78000,On-Campus,1.8,Fall,2022,MSIS,Arizona,15818,11179,Waived,79,6.5
+60,North Carolina State University,47208,On-Campus,2,Fall,2022,MSCS,North Carolina,15885,48732,301,106,8
+61,University of Illinois Chicago,60240,On-Campus,1.8,Fall,2023,MSCS,Chicago,55728,19008,300,80,6.5
+62,University of Maryland Baltimore,70300,On-Campus,2,Fall,2023,MSIS,Maryland,14736,45670,305,80,6.5
+63,San Diego State University,59027,On-Campus,1.8,Fall,2023,MSCS,California,15735,14760,Waived,80,6.5
+64,Ohio State University,43187,On-Campus,2,Fall,2022,MSIS,Ohio,13966,63379,300,79,7
+65,University of Washington,60937,On-Campus,2,Fall,2022,MSCS,Washington,32090,59754,Waived,92,7
